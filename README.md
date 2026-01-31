@@ -101,7 +101,11 @@ while True:
         break
 ```
 ## Output:
-![Uploading Screenshot 2026-01-31 213632.png…]()
+<img width="1918" height="1015" alt="Screenshot 2026-01-31 213632" src="https://github.com/user-attachments/assets/7da7df7d-633e-4d05-aa06-7f1c11d7a81a" />
+
+
+
+
 
 
 
